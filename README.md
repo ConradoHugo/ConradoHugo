@@ -20,6 +20,6 @@
 
 ## Contact
 
-- 💼 LinkedIn: [your-linkedin]((https://www.linkedin.com/in/hugo-ben%C3%ADcio-conrado-028a5a331/))
+- 💼 LinkedIn: [(https://www.linkedin.com/in/hugo-ben%C3%ADcio-conrado-028a5a331/)]
 
 ---
